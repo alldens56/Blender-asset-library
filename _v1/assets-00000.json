@@ -1,0 +1,1415 @@
+{
+  "asset_count": 50,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "BedFrame",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bedframe.webp",
+        "hash": "SHA256:a2ad3389e9e08dcfcf086a35ab4e0a90ee641be0cea7f2e5a920db586c7b830c"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0608856678009033,
+              4.258533477783203,
+              1.5575306415557861
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BedFrame.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bedframe001.webp",
+        "hash": "SHA256:2bb892c89e681642912d6453b3175ed3a2a208adb9a4dd1ec961835595422050"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.8219120502471924,
+              4.258533477783203,
+              1.5575306415557861
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BookCase_LeftDoor",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bookcase_leftdoor.webp",
+        "hash": "SHA256:a4fca366cf92a8de0af258a14d1c2e6d1ebe00582434b9a98b2a1e037141a5de"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7535691857337952,
+              0.07071101665496826,
+              0.8269561529159546
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BookCase_LeftDoor.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bookcase_leftdoor001.webp",
+        "hash": "SHA256:a4fca366cf92a8de0af258a14d1c2e6d1ebe00582434b9a98b2a1e037141a5de"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7535691857337952,
+              0.07071101665496826,
+              0.8269561529159546
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BookCase_RightDoor",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bookcase_rightdoor.webp",
+        "hash": "SHA256:0e5de6b2a9925b79d6a9c2871fa162ff1a99f533f270de06a8e4bd44eae0fb5a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7535691857337952,
+              0.07071087509393692,
+              0.8269561529159546
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BookCase_RightDoor.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bookcase_rightdoor001.webp",
+        "hash": "SHA256:0e5de6b2a9925b79d6a9c2871fa162ff1a99f533f270de06a8e4bd44eae0fb5a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7535691857337952,
+              0.07071087509393692,
+              0.8269561529159546
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BookCase_Single",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bookcase_single.webp",
+        "hash": "SHA256:7b257ce3f63dfa7bc0869a0bd3578a9726c55c0af60430bb4514f31aac3cc65e"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.8419355154037476,
+              0.664405345916748,
+              3.371304750442505
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BookCase_Single.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bookcase_single001.webp",
+        "hash": "SHA256:d1a36cdac9f95ef008778a8eaa2941f027b130ba8d5ec3e5457072cd81ba955a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.8419355154037476,
+              0.664405345916748,
+              3.371304750442505
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BottomDrawer",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/bottomdrawer.webp",
+        "hash": "SHA256:4c9267ca7a069281fe7be38368023d288fca2da1d51eb2cc69c8855071b5fece"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.42115074396133423,
+              0.4080199599266052,
+              0.15439307689666748
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chair",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/chair.webp",
+        "hash": "SHA256:a5a4305a0fd7bbbbac756ace3de7c8bdebb6c1f5b36329dc1039e6ca2109e4b9"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5072489976882935,
+              0.632144570350647,
+              1.0663279294967651
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Closet",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/closet.webp",
+        "hash": "SHA256:a76e6ea5dbc6c68c92ede568edd62839cda70075e4298fddf549d15b5470b789"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.5525026321411133,
+              0.861790657043457,
+              2.977509021759033
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Closet_LeftDoor",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/closet_leftdoor.webp",
+        "hash": "SHA256:8fdc695cd9e119c7ddcdcaa9cfb6959d2815d5f761e64aecd4f3b0bae6b0708a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6674569249153137,
+              0.07211198657751083,
+              2.3120486736297607
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Closet_RightDoor",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/closet_rightdoor.webp",
+        "hash": "SHA256:9a3b99cf07306c07835af5278206e9c33cd165bc9c1b42f6df57d932496db282"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6674581170082092,
+              0.07211197167634964,
+              2.3120486736297607
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Comforter",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/comforter.webp",
+        "hash": "SHA256:0b278dc65d6757baf8aabe3ddf63ba11faf8455127f6f3293d35da4ebd28ca6d"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.052875280380249,
+              3.42509126663208,
+              0.5418338179588318
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Comforter.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/comforter001.webp",
+        "hash": "SHA256:9a0726288fcf9dd0feea036db5877ee6d38a2954e3494bb00ef12bc1522cb806"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.8258650302886963,
+              3.434839963912964,
+              0.5418338179588318
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Desk",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/desk.webp",
+        "hash": "SHA256:da32e56ec925b293e509324071ea5f0a0b05d685f56d4d379f8e6cfa51f9960a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.8223029375076294,
+              0.8466270565986633,
+              0.922498881816864
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Desk_Drawer1",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/desk_drawer1.webp",
+        "hash": "SHA256:2b0585312d039c6898d2bc140930e4550267d1bbe1b4ec395862a2fbf1b2cca7"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.421150803565979,
+              0.7477356195449829,
+              0.14243561029434204
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Desk_Drawer2",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/desk_drawer2.webp",
+        "hash": "SHA256:be88d0e29f80b09d02934f65d55cdc9bde1a278e7fb6610a73ff30ef2116c06f"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.421150803565979,
+              0.7479954957962036,
+              0.15439307689666748
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Desk_Drawer3",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/desk_drawer3.webp",
+        "hash": "SHA256:2b0585312d039c6898d2bc140930e4550267d1bbe1b4ec395862a2fbf1b2cca7"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.421150803565979,
+              0.7477356195449829,
+              0.14243561029434204
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Desk_Drawer4",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/desk_drawer4.webp",
+        "hash": "SHA256:be88d0e29f80b09d02934f65d55cdc9bde1a278e7fb6610a73ff30ef2116c06f"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.421150803565979,
+              0.7479954957962036,
+              0.15439307689666748
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Door",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/door.webp",
+        "hash": "SHA256:a880ffd47cf1895723b13a62ddcfc252d1dad750a27f8d753da269d43de1ce60"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3317126035690308,
+              0.11503736674785614,
+              2.978053569793701
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Door.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/door001.webp",
+        "hash": "SHA256:16fde49868a6974220e34c67fa2668bc0cf1690dc583d7f5c91fad9dfa918554"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3317126035690308,
+              0.11503736674785614,
+              2.978053569793701
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Door.002",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/door002.webp",
+        "hash": "SHA256:404a8233363c3f2c031318cab52a9c69b7152218bf90dc7b7bc6f1774f258ced"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3317126035690308,
+              0.12427890300750732,
+              2.978053569793701
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DoorFrame",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/doorframe.webp",
+        "hash": "SHA256:548bc4aa84a1eb46cc6af6613dbc1d160bfdf2f30f9ae12250db6ae2958956c0"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.7486155033111572,
+              0.3271687924861908,
+              3.139805793762207
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DoorFrame.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/doorframe001.webp",
+        "hash": "SHA256:bbc4a4f878a152362b80777690fd04059af6791f80b60a6031af689376f2f77c"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.7486155033111572,
+              0.31379494071006775,
+              3.139805793762207
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DoorFrame.002",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/doorframe002.webp",
+        "hash": "SHA256:9ce19e10c519d52e2c5972b01b487123d7d51763abb7038df79919ed5d818cce"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.5943002700805664,
+              0.2430441528558731,
+              3.081392288208008
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DoorHandle",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/doorhandle.webp",
+        "hash": "SHA256:1e3e415a4ed63c8f1b1f13d8a503dcc4f54cf62e3dcf5c038f96a982b1aa6172"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.29681625962257385,
+              0.3199320137500763,
+              0.09379663318395615
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DoorHandle.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/doorhandle001.webp",
+        "hash": "SHA256:1e3e415a4ed63c8f1b1f13d8a503dcc4f54cf62e3dcf5c038f96a982b1aa6172"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.29681625962257385,
+              0.3199320137500763,
+              0.09379663318395615
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DoorHandle.002",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/doorhandle002.webp",
+        "hash": "SHA256:34989f9526503e22dea0135ab737a07f84f0a962bb706c09247495e218e589a0"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2813790738582611,
+              0.3199320137500763,
+              0.06494554877281189
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mattress",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/mattress.webp",
+        "hash": "SHA256:996811398e999823909ab55134ee1afea0a07ae5e837065ae7dbb8f7f0e2563d"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.720805287361145,
+              4.0453362464904785,
+              0.3706371784210205
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mattress.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/mattress001.webp",
+        "hash": "SHA256:9b72934ef6f28899ca9e746217758ecebb5d63a3b854887345bebc32e282a88a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.4890530109405518,
+              4.0453362464904785,
+              0.3706371784210205
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nightstand",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/nightstand.webp",
+        "hash": "SHA256:19313b20ed3e524f1719de9950c0d49540b6f68d4944ea883f948f0ddfddb312"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5877094864845276,
+              0.5066515207290649,
+              0.5117393732070923
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OfficeChair",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/officechair.webp",
+        "hash": "SHA256:335824112ad37b36d8523fddaef3be2209d7053849c45f577d03740a49a765f4"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7216703295707703,
+              0.8072055578231812,
+              1.127562165260315
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pillow",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/pillow.webp",
+        "hash": "SHA256:3ed64e725abb175e172357b6808550007bf2ae85ea02ff173e2262d701da344b"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2052602767944336,
+              0.6219691038131714,
+              0.2799832224845886
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pillow.001",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/pillow001.webp",
+        "hash": "SHA256:3ed64e725abb175e172357b6808550007bf2ae85ea02ff173e2262d701da344b"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2052602767944336,
+              0.6219691038131714,
+              0.2799832224845886
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pillow2",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/pillow2.webp",
+        "hash": "SHA256:f5e63135ed3d8c552889db88f6e4c70ef23238a01b86189c476844d392af3e84"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2050650119781494,
+              0.6012526750564575,
+              0.30063939094543457
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShortCloset",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/shortcloset.webp",
+        "hash": "SHA256:602610b10beb78f4ebaa3502c8c778c43fe395e310ba17b68863df715c7cab85"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.5525026321411133,
+              0.861790657043457,
+              2.2666962146759033
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShortCloset_BottomDrawer",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/shortcloset_bottomdrawer.webp",
+        "hash": "SHA256:4a0f3e7e4c320419c1c6d2f8f8981180debf40f87112a3895608092d13f40b17"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3988816738128662,
+              0.8125289678573608,
+              0.14527356624603271
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShortCloset_LeftDoor",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/shortcloset_leftdoor.webp",
+        "hash": "SHA256:32cf45fc131e015151acbfbeeb14b26225285b25a83d3290fef0ab3d03656301"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6674581170082092,
+              0.07211199402809143,
+              1.2368738651275635
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShortCloset_RightDoor",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/shortcloset_rightdoor.webp",
+        "hash": "SHA256:e5937d2acfd01d2c1444b21601b0a6c5d88237c7ca2af3547d0e899ac26eeeb3"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6674581170082092,
+              0.07211197912693024,
+              1.2368738651275635
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShortCloset_TopDrawer",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/shortcloset_topdrawer.webp",
+        "hash": "SHA256:614c90702eb110a6740c7c15305ede8f5f5d56c738b97b04cd6ce5ec19e6bc1c"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3974571228027344,
+              0.8125289678573608,
+              0.15200957655906677
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sofa",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/sofa.webp",
+        "hash": "SHA256:0b26c22ceb78263cf0241f6a587ca08958ed34481b862abda00fe761b6f1559b"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.241040229797363,
+              1.7836647033691406,
+              1.5077836513519287
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sofa2",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/sofa2.webp",
+        "hash": "SHA256:f00486536837fea08fce4bc75783f3f3f7bdd1cd881e7c480d307e81fe6fc0c6"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.0026469230651855,
+              1.5408183336257935,
+              1.4524258375167847
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sofa3",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/sofa3.webp",
+        "hash": "SHA256:924f023f97f4707ee103015751ece557361987ddadfae6c7af2501c628e28138"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.0026469230651855,
+              2.801189422607422,
+              1.4524259567260742
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sofa_Individual",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/sofa_individual.webp",
+        "hash": "SHA256:5ad1a3f08bdd9b8065996a91d8509bd02e59083801300dfe70d41a1bc1a4c498"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.637953519821167,
+              1.4383127689361572,
+              1.360147476196289
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stool",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/stool.webp",
+        "hash": "SHA256:050566a5866545b028babacf82a7c27753de44cf22d96ed70e771c36f6f2a7a3"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5072489976882935,
+              0.5333532094955444,
+              0.5768139958381653
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Suzanne",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/suzanne.webp",
+        "hash": "SHA256:ffc8d6da24392a6d031be02c898060bf67bda7abc99761613e34fcdd05eba0cb"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.734375,
+              1.703125,
+              1.96875
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Table",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/table.webp",
+        "hash": "SHA256:c2694a13c8ba28d7facdc9e9cb0346226db74955d6d857efc994b60ebfb880e3"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.4183018207550049,
+              2.7802255153656006,
+              0.8244287967681885
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Table2",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/table2.webp",
+        "hash": "SHA256:a2ede27ac7cfd2c0d6d58afefbec1520867226bd3f7ae4619ace2cbf1ab8dd22"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.4183015823364258,
+              2.7802255153656006,
+              0.8244287967681885
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TopDrawer",
+      "id_type": "OBJECT",
+      "files": [
+        "Furniture/quaternius furniture 49 objects.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Furniture/quaternius%20furniture%2049%20objects_thumbnails/Object/topdrawer.webp",
+        "hash": "SHA256:3cab1f32f58140da59f7aaca6137388c8e2556c25f732bbbad81e7587d18d00a"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.42115074396133423,
+              0.4077601134777069,
+              0.14243561029434204
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Furniture/quaternius furniture 49 objects.blend",
+      "size_in_bytes": 1163785,
+      "hash": "SHA256:24236a86a8b7d6f6a52b51d0c13468d812a9844055da64824f60405061d69a56",
+      "blender_version": "5.2.44",
+      "url": "Furniture/quaternius%20furniture%2049%20objects.blend"
+    }
+  ]
+}
